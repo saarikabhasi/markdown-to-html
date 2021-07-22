@@ -2,7 +2,7 @@
 
 ## Description:
 
-A small package, designed to convert the Github mark down syntax to HTML code.
+A Python package, designed to convert the Github mark down syntax to HTML code.
 
 ## Supporting Features
   * headings 
@@ -19,3 +19,19 @@ A small package, designed to convert the Github mark down syntax to HTML code.
   * accepts html tags <*img*> inside a <*p*> tag 
 
 *Note: Additional support in progress
+
+## Install
+
+  ```
+  python3 -m pip install markdown-to-html
+
+  ```
+## Usage
+  ```
+  
+  ```
+  Script
+  ```
+
+  ```
+  
