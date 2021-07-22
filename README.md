@@ -1,4 +1,4 @@
-# Markdown to HTML Package
+# Markdown to HTML
 
 ## Description:
 
