@@ -28,10 +28,23 @@ A Python package, designed to convert the Github mark down syntax to HTML code.
   ```
 ## Usage
   ```
+  >>> from markdown2html import md2html
+  >>> md2html.markdown("**Hello**")
+  '\n<p><strong>Hello</strong></p>\n'
   
   ```
-  Script
+  Command Line Interface
+  
   ```
+  $ md2html -h
+  usage: Input a file [-h] [-f F]
 
+  optional arguments:
+  -h, --help  show this help message and exit
+  -f F
+  ```
+  
+  ```
+  $ md2html -f Alpha.md > Output.html
   ```
   
