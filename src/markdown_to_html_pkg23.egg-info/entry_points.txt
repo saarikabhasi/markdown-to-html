@@ -1,0 +1,6 @@
+[console_scripts]
+md = markdown_to_html_package.md:main
+
+[python_requires]
+> = 3.6
+

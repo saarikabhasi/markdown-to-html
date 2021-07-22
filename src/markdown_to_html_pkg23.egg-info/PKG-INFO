@@ -1,0 +1,39 @@
+Metadata-Version: 2.1
+Name: markdown-to-html-pkg23
+Version: 0.2.3
+Summary: A package to convert Github Markdown syntax to Html
+Home-page: https://github.com/pypa/markdown-to-html
+Author: Saarika
+Author-email: saarikabhasi@yahoo.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/pypa/markdown-to-html/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Markdown to HTML Package
+
+## Description:
+
+A small package, designed to convert the Github mark down syntax to HTML code.
+
+## Supporting Features
+  * headings 
+  * text styling: Bold, Italic, Strikethrough, Bold and italic
+  * unordered and ordered lists
+  * paragraphs
+  * Multiple and Single line Code Blocks
+  * Setext for <*h1*> and <*h2*> Tags
+  * horizontal rule <*hr*> tag
+  * Link text (Hyperlinks)
+  * Image links
+  * inline code
+  * Web links (example: https://www.google.com)
+  * accepts html tags <*img*> inside a <*p*> tag 
+
+*Note: Additional support in progress
+
+
