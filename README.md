@@ -2,7 +2,7 @@
 
 ## Description:
 
-A small package, designed to convert the Github mark down syntax to HTML code.
+A small package, designed to convert the Github markdown syntax to HTML code.
 
 ## Supporting Features
   * headings 
@@ -18,4 +18,4 @@ A small package, designed to convert the Github mark down syntax to HTML code.
   * Web links (example: https://www.google.com)
   * accepts html tags <*img*> inside a <*p*> tag 
 
-*Note: Additional support in progress
+*Note: Additional support in progress*
